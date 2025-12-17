@@ -3,6 +3,8 @@
 		src:
     url("./assets/title1.ttf");
 }
+
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexkai.css);
 body {
 	background-image: url("./assets/background.png");
     	background-color: #cccccc;
@@ -13,6 +15,6 @@ body {
 
 h1 {
     text-align: center;
-    font-family: "title";
+    font-family: ‘cwTeXKai’, serif;
     font-weight: normal;
 }
